@@ -1,11 +1,6 @@
 # karatePetStore - Coding Challenge
 
-This is the API Automation exercise of the coding challenge. I chose Karate for simplicity's sake and to show that business readable scenarios  
-are compatible with technical language in a simple, maintainable and cohesive package. More often than not, Page Factory and Object Repository  
-pattern approaches leave huge step definition files behind for the sake of BDD. These files can grow huge and sometimes step definitions are not  
-used more than a couple of times. Karate only requires a configuration file, the structured feature files, and a simple runner class. It might not be as  
-business readable as traditional Gherkin, but it sure is simpler. Additionally, I've chosen karate for both API and UI Automation testing to show that  
-it's a powerful, clean and simple tool to achieve both ends of the spectrum, and it's compatible with CI/CD.
+This is the API Automation exercise of the coding challenge. I chose Karate for simplicity's sake and to show that business readable scenarios are compatible with technical language in a simple, maintainable and cohesive package. More often than not, Page Factory and Object Repository pattern approaches leave huge step definition files behind for the sake of BDD. These files can grow huge and sometimes step definitions are not used more than a couple of times. Karate only requires a configuration file, the structured feature files, and a simple runner class. It might not be as business readable as traditional Gherkin, but it sure is simpler. Additionally, I've chosen karate for both API and UI Automation testing to show that it's a powerful, clean and simple tool to achieve both ends of the spectrum, and it's compatible with CI/CD.
 
 PetStore API : https://petstore.swagger.io/
 
